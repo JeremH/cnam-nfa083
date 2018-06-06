@@ -1,15 +1,6 @@
 <!-- fichier cnam/nfa017/2017-cf1/index.inc.php - 20180604-PBO -->
-<!DOCTYPE html>
-<html lang="fr">
-<!-- ENTETE HTML =============================================================== -->
-<head>
-		<meta charset="utf-8">
-		<meta name="description" content="Site contenant des informations sur mon hébergeur">
-		<meta name="viewport" content="initial-scale=1.0, user-scalable=yes">
-		<title>Promotion Hébergeur</title>
-		<link rel="stylesheet" href="css/style.css">
-	</head>
-<body>
+
+<!-- ENTETE HTML ===============================================================-->
 <?php
      include("inc/entete.inc.php");
      entete("NFA083 CF1 : Présentation hébergeur",0); /* pour le title et le h1 */ ?>
