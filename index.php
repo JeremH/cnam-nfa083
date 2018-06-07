@@ -28,7 +28,11 @@
               <a href="questions.php" id="question" class="actif">Poser une question</a>
            </p>
   </section>
-  
+  <!--<section>
+  récupération du formulaire informations
+        <p><?php echo $_POST['question_pseudo']; ?></p>
+      <p>Vous avez laissé le message suivant <?php echo $_POST['question_text']; ?>
+  </section>-->
   <footer>Copyright P.BOUQUET</footer>
 
 </body>
